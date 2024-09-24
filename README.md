@@ -1,4 +1,4 @@
-# Hello, there nayeon
+# Hello, I am nayeon
 
 ## Introduction
 
@@ -6,7 +6,7 @@
 -   I am working in web frontend development.
 -   I majored in cyber security.
 
-## Tech Stack
+## Skills
 
 <h3>Language</h3>
 
@@ -35,4 +35,4 @@
 
 <br>
 
-![Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Kite&show_icons=true)
+![Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Kite&show_icons=true&hide_rank=true)
