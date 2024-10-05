@@ -1,8 +1,8 @@
-# Hello, I am nayeon
+# Hello, I'm nayeon
 
-## Introduction
+## About me
 
--   SW Engineer
+-   I'm a SW Engineer.
 -   I am working in web frontend development.
 -   I majored in cyber security.
 
@@ -21,7 +21,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <h3>Collaboration 
@@ -36,3 +35,5 @@
 <br>
 
 ![Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Kite&show_icons=true&hide_rank=true)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluealgo12)](https://solved.ac/bluealgo12)
