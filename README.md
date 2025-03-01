@@ -37,8 +37,3 @@
 ![Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Kite&show_icons=true&hide_rank=true)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluealgo12)](https://solved.ac/bluealgo12)
-
-<br>
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
-</a>
